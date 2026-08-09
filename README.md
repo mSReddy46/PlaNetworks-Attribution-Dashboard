@@ -140,4 +140,4 @@ and the notebook's opening cells.
 
 ---
 
-*Prepared by M. Sandeep Reddy — Data Analyst Intern, Unified Mentor.*
+*Prepared by M. Sandeep Reddy *
