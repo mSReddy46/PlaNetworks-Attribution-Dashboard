@@ -8,6 +8,7 @@ An end-to-end predictive HR analytics project that scores every employee's attri
 them — built as part of the Unified Mentor Data Analyst Internship program.
 
 **Live Dashboard:** https://planetworks-attribution-dashboard-sandeep-reddy-m.streamlit.app/
+**Project Feedback Video:** https://drive.google.com/file/d/1n1OFoMPoiBALrFawSBat0dr-Lh_hwPvj/view?usp=sharing
 
 ---
 
